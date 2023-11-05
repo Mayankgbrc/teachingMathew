@@ -1,3 +1,3 @@
 # teachingMathew
-## Mayank here
+## Mathew here
 ### md - markdown
